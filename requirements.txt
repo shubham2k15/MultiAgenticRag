@@ -1,0 +1,32 @@
+# Core LangChain / LangGraph
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+
+# Environment variables
+python-dotenv
+
+# PDF loading
+pypdf
+
+# Google Cloud / Vertex AI
+google-cloud-aiplatform
+google-cloud-storage
+google-auth
+
+# Google GenAI / Gemini
+google-genai
+langchain-google-genai
+langchain-google-vertexai
+
+# API / application server
+fastapi
+uvicorn
+
+# Useful supporting packages
+pydantic
+requests
+
+langchain-groq
